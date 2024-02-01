@@ -99,7 +99,7 @@ export default function Home() {
         </div>
         <button
           onClick={getWeather}
-          className="bg-blue-600 hover:bg-blue-800  font-bold m-2 px-8 py-4 rounded-lg"
+          className="bg-blue-600 text-white hover:bg-blue-800  font-bold m-2 px-8 py-4 rounded-lg"
           id="search"
         >
           <svg
